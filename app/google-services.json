@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294667993911",
+    "project_id": "du-an-1-28753",
+    "storage_bucket": "du-an-1-28753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294667993911:android:ab4d6190c8eb3984f0d0b2",
+        "android_client_info": {
+          "package_name": "com.example.heybaby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294667993911-6cos7b6uvnn0n2bnhjtcg1t4ve9dfs6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEkJdejcFbFnn28cwGFqvqiWip-AwylT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294667993911-6cos7b6uvnn0n2bnhjtcg1t4ve9dfs6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
